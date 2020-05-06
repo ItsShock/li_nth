@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" time="3.235">
+  <testsuite name="Zadanie nr. 2" errors="0" failures="0" skipped="0" timestamp="2020-03-18T18:53:10" time="2.616" tests="5">
+    <testcase classname="Zadanie nr. 2" name="Dodano uporządkowaną listę" time="0.009">
+    </testcase>
+    <testcase classname="Zadanie nr. 2" name="Dodano 5 elementów listy" time="0.004">
+    </testcase>
+    <testcase classname="Zadanie nr. 2" name="Każdy LI ma span oraz checkbox" time="0.003">
+    </testcase>
+    <testcase classname="Zadanie nr. 2" name="Każdy nieparzysty LI ma odpowiedni kolor" time="0.002">
+    </testcase>
+    <testcase classname="Zadanie nr. 2" name="Każdy parzysty LI ma odpowiedni kolor" time="0.003">
+    </testcase>
+  </testsuite>
+</testsuites>
